@@ -1,1 +1,3 @@
+# The extracted csv files are all large (10+ MB) so they will be uploaded to sites like Kaggle.com
+# Once uploaded, a link will be added here and in the README.md
 *.csv
